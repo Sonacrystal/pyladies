@@ -26,16 +26,16 @@ mapbox:
     api_key: pk.eyJ1IjoiaGVsZW5zdCIsImEiOiJiZmZhYjYxMzc1ZGMzNmI3MjdlNmNkMTQ0MGJkZDdmNyJ9.6mfnxn0mORV5Gt73x_smtg
 
 chapters:
-    - name:      Amsterdam, the Netherlands
-      meetup_id: 8160762
-      website: amsterdam
-      image: pyladies_amsterdam.jpeg
-      email: amsterdam@pyladies.com
-      twitter: PyLadiesAMS
-      meetup: PyLadiesAMS
+    - name:      Lautech, Nigeria
+      meetup_id: 
+      website: 
+      image: pyladies_lautech.jpeg
+      email: lautech@pyladies.com
+      twitter: PyLadiesLautech
+      meetup: 
       location:
-            latitude: 52.374436
-            longitude: 4.8979956033677
+            latitude: 8.168006
+            longitude: 4.266922
 
     # - name:      Ann Arbor
     #   meetup_id: 10841992
